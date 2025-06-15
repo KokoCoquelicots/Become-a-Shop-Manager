@@ -1,6 +1,6 @@
 # Become-a-Shop-Manager
 
-![Image du projet](URL_DE_TON_IMAGE)
+![Image du projet](become_a_shop_manager.png)
 
 ## Le jeu
 [Jouer au jeu !](https://celico.itch.io/become-a-shop-manager)
