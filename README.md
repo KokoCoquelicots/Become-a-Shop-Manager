@@ -10,7 +10,7 @@ Le but du jeu est de servir les commandes aux clients afin de récolter le plus 
 Une fois une certaine somme atteinte, un portail apparaît permettant de se téléporter vers le monde suivant.  
 La difficulté augmente progressivement au fil des niveaux.
 
-## Technologies et outils utilisés
+## Languages et outils utilisés
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  
